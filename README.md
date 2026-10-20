@@ -88,6 +88,7 @@ If you're meeting with a CEO, have you read all their tweets and YouTube transcr
 | **Bluesky** | The decentralized social layer. AT Protocol posts from the post-Twitter migration. |
 | **Perplexity** | Controlled Agent API synthesis, OpenRouter Sonar fallback, raw Search API rows, and explicit Deep Research. |
 | **Web** | The editorial coverage, the blog comparisons. One signal of many, not the only one. |
+| **facebook** | The editorial coverage, the blog comparisons. One signal of many, not the only one. |
 
 Community contributors keep adding more. Truth Social and other niche sources are in the engine with more on the way.
 
