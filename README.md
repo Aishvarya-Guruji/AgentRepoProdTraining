@@ -36,7 +36,7 @@ npx skills add mvanhorn/last30days-skill -g
 ```
 (`-g` installs globally for your user, available across all projects. Drop it to scope per-project.)
 
-More install options (claude.ai web, OpenClaw, manual) in the [Install](#install) section below.
+More install options (claude.ai web, OpenClaw, manual) in the [Install](#install) section below with some examples.
 
 Zero config. Reddit, HN, Polymarket, and GitHub work immediately. Run it once and the setup wizard unlocks X, YouTube, TikTok, arXiv, Techmeme, and more in 30 seconds.
 
